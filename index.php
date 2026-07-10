@@ -61,7 +61,7 @@
     <div class="container">
 
         <div class="form-group">
-            <h4>Buat Tabel</h4>
+            <h4>Inisialisasi</h4>
 
             <p>Jumlah Baris :</p>
             <input type="number" id="row" min="1"><br><br>
@@ -73,7 +73,7 @@
         </div>
 
         <div class="form-group">
-            <h4>Ubah Status</h4>
+            <h4>Okupansi</h4>
 
             <p>Baris :</p>
             <input type="number" id="targetRow"><br><br>
